@@ -50,7 +50,8 @@ The project includes:
 - How do employees perform by number and value of sales
 
 ### Produse aflate sub pragul minim de stoc
-![Produse aflate sub pragul minim de stoc](Images/Image2.jpg)
+![Produse aflate sub pragul minim de stoc](Images/Image2.png)
 
 ### Valoarea totală a vânzărilor pe centru și lună 
-![Valoarea totală a vânzărilor pe centru și lună ](Images/Image3.jpg)
+![Valoarea totală a vânzărilor pe centru și lună ](Images/Image3.png)
+
