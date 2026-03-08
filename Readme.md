@@ -38,6 +38,9 @@ The project includes:
 - stored procedures
 - analytical queries
 
+### Entity-Relationship Diagram
+![Entity-Relationship Diagram](Images/Image1.jpg)
+
 ## Example Questions Answered by the Database
 
 - What is the total sales value by center and month
@@ -46,13 +49,8 @@ The project includes:
 - How are sales distributed by product category
 - How do employees perform by number and value of sales
 
-## Project Structure
+### Produse aflate sub pragul minim de stoc
+![Produse aflate sub pragul minim de stoc](Images/Image2.jpg)
 
-```text
-sql/
-  01_tables.sql
-  02_udfs.sql
-  03_views.sql
-  04_stored_procedures.sql
-  05_queries.sql
-docs/images/
+### Valoarea totală a vânzărilor pe centru și lună 
+![Valoarea totală a vânzărilor pe centru și lună ](Images/Image3.jpg)
