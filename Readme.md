@@ -49,9 +49,10 @@ The project includes:
 - How are sales distributed by product category
 - How do employees perform by number and value of sales
 
-### Produse aflate sub pragul minim de stoc
-![Produse aflate sub pragul minim de stoc](Images/Image2.png)
+### Products below the minimum stock threshold
+![Products below the minimum stock threshold](Images/Image2.png)
 
-### Valoarea totală a vânzărilor pe centru și lună 
-![Valoarea totală a vânzărilor pe centru și lună ](Images/Image3.png)
+### Total sales value by center and month
+![Total sales value by center and month ](Images/Image3.png)
+
 
